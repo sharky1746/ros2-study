@@ -1,8 +1,0 @@
-{
-  "package_name": "my_first_package_msgs",
-  "non_idl_tuples": [
-    "/home/mk/ros2_study/src/my_first_package_msgs:msg/CmdAndPoseVel.msg",
-    "/home/mk/ros2_study/src/my_first_package_msgs:srv/MultiSpawn.srv",
-    "/home/mk/ros2_study/src/my_first_package_msgs:action/DistTurtle.action"
-  ]
-}

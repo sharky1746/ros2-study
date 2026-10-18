@@ -1,0 +1,11 @@
+# colcon workspace outputs
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
